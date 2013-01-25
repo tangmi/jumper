@@ -1,15 +1,17 @@
 # jumper
 
-## description
+## Description
 
-2d platformer game implemented using java's applet libraries. doesn't require anything not pre-baked into jdk.
+2d platformer game implemented using java's applet libraries. doesn't require anything not pre-baked into JDK.
 
-* main character sprites from some nes game, repackaged
-* sounds generated from [bfxr](http://www.bfxr.net/)
-* all other sprites by me
+* Main character sprites from some NES game, repackaged
+* Sounds generated from [bfxr](http://www.bfxr.net/)
+* All other sprites by me
 
-## is applet programming for you?
+## Is applet programming for you?
 
-# no.
+# No.
 
-use a game library for game programming. [lwjgl](http://lwjgl.org/), [slick](http://slick.cokeandcode.com/), etc. exist on java.
+Use a game library for game programming, like [LWJGL](http://lwjgl.org/) and [Slick](http://slick.cokeandcode.com/).
+
+[I have a setup guide for installing LWJGL and Slick](https://github.com/tangmi/environment-setup)
