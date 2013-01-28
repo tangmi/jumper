@@ -1,5 +1,7 @@
 # jumper
 
+![screenshot](http://i.imgur.com/C3VaGXV.png)
+
 ## Description
 
 2d platformer game implemented using java's applet libraries. doesn't require anything not pre-baked into JDK.
